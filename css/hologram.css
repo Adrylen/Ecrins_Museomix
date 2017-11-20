@@ -1,0 +1,24 @@
+body {
+	background-color: black;
+}
+
+#holo {
+	width: 100%;
+	margin: auto;
+}
+
+#img_audio {
+	position: absolute;
+	left: 1%;
+	bottom: 1%;
+}
+
+#mark {
+	border-radius: 50%;
+	width: 4px;
+	height: 4px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	background-color: white;
+}

@@ -1,0 +1,38 @@
+{
+	"type": "audio",
+	"id": "pointeuse",
+	"name": "Pointeuse",
+	"profil": "IMGP9786.jpg",
+	"audio": [
+		{
+			"id": "pointeuse",
+			"title": "Le donateur",
+			"image": "1_Donateur.jpg",
+			"src": "pointeuse.wav"
+		},
+		{
+			"id": "horloge-parlante",
+			"title": "L'objet",
+			"image": "2_Objet.jpg",
+			"src": "horloge-parlante.wav"
+		},
+		{
+			"id": "pomme",
+			"title": "Le régisseur",
+			"image": "3_Regisseur.jpg",
+			"src": "pomme.wav"
+		},
+		{
+			"id": "noemie",
+			"title": "La responsable de collection",
+			"image": "4_Responsable.jpg",
+			"src": "noemie.wav"
+		},
+		{
+			"id": "question",
+			"title": "Et toi ?",
+			"text": "true",
+			"src": "question.wav"
+		}
+	]
+}

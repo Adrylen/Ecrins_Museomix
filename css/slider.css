@@ -1,0 +1,104 @@
+@font-face {
+    font-family: "Bell-MT-Italic";
+    src: url("../assets/font/bell-mt/BELLI.ttf");
+}
+
+@font-face {
+    font-family: AkzidenzGrotesk-Medium;
+    src: url("../assets/font/AkzidenzGrotesk-Medium.otf") format("opentype");
+}
+
+.slider { overflow: hidden; }
+.slider .content { position: relative; }
+.slider .content .page { float: left; }
+
+body {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    background-color: black;
+}
+
+.example {
+    text-align: center;
+    display: inline-block;
+}
+
+.slider {
+    display: inline-block;
+}
+
+.page {
+    width: 980px;
+    height: 613px;  
+    border-radius: 2px;
+    box-shadow: inset 0 0 6px 0 rgba(255,255,255,0.4);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}
+
+h1 {
+    font-family: Bell-MT-Italic;
+    font-weight: normal;
+    font-size: 300%;
+    margin-top: -4%;
+    margin-left: -20%;
+    margin-bottom: 0;
+    color: #FFE600;
+}
+
+
+p {
+    font-family: AkzidenzGrotesk-Medium;
+    text-align: left;
+    width: 50%;
+    height: 45%;
+    margin-left: 35%;
+    padding: 0 2%;
+    color: #FFE600;
+    line-height: 1.5;
+}
+
+.bar {
+    width: 95%;
+    height: 0.5em;
+    background-color: #FFE600;
+}
+
+.top {
+    margin: 2.8% auto 10% auto;
+}
+
+.bottom {
+    margin: 12% auto 0 auto;
+}
+
+.description {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#left {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 48%;
+    left: 0;
+}
+
+#right {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 48%;
+    right: 0;
+}
+
+#quit {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 1%;
+    right: 1%;
+}

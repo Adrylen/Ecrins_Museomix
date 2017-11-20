@@ -1,0 +1,7 @@
+{
+	"files" : [
+		{"src": "carnet_echantillons.json"},
+		{"src": "pointeuse.json"},
+		{"src": "flacon.json"}
+	]
+}

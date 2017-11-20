@@ -1,0 +1,34 @@
+{
+	"type": "slider",
+	"id": "carnet_echantillons",
+	"name": "Carnet d'échantillons textiles",
+	"profil": "IMGP9757.jpg",
+	"text": [
+		{ "value": "Dans les réserves du musée, se cachent" },
+		{ "value": "plus de 200 cahiers d’échantillons…" },
+		{ "value": "Actuellement, ils attendent d’être inventoriés," },
+		{ "value": "c’est-à-dire que les recherches sur leur origine" },
+		{ "value": "et utilisation n’ont pas encore été faites et qu’ils" },
+		{ "value": "ne sont pas classés et numérotés." },
+		{ "value": "Voici les informations dont nous disposons" },
+		{ "value": "actuellement : Dans ces cahiers, sont consignées" },
+		{ "value": "toutes les expériences et tous les types de tissus" },
+		{ "value": "réalisés dans une entreprise.  Ces cahiers" },
+		{ "value": "proviennent, pour certains,  des filatures Divry" },
+		{ "value": "et Noiret. Ils datent de 1900 à 1970." },
+		{ "value": "Les carnets que vous allez découvrir juste après" },
+		{ "value": "sont des extraits de ce qui est conservé dans les réserves" },
+		{ "value": "du musée. Chaque page représente un carnet différent." }
+	],
+	"images": [
+		{ "src": "1.jpg" },
+		{ "src": "2.jpg" },
+		{ "src": "3.jpg" },
+		{ "src": "4.jpg" },
+		{ "src": "5.jpg" },
+		{ "src": "6.jpg" },
+		{ "src": "7.jpg" },
+		{ "src": "8.jpg" }
+	]
+}
+
